@@ -1,0 +1,2 @@
+my-shell: execute.c global.c help.c hop.c log.c main.c proclore.c promt.c reveal.c seek.c syscmd.c bg.c config.c activities.c iman.c signal.c fgbg.c neonate.c fg.c parser.c IO_redirection.c animation.c
+	gcc execute.c global.c help.c hop.c log.c main.c proclore.c promt.c reveal.c seek.c syscmd.c bg.c config.c activities.c iman.c signal.c fgbg.c neonate.c fg.c parser.c IO_redirection.c animation.c -o bondshell

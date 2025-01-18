@@ -1,0 +1,19 @@
+#.myshrc
+
+alias reveall='reveal -l'
+alias reveala='reveal -a'
+alias home='hop ~'
+alias c='clear'
+alias bye='exit'
+
+mk_hop() 
+{ 
+	mkdir "$1" # Create the directory 
+	hop "$1" # Change into the directory 
+}
+
+hop_seek()
+{
+	hop "$1"
+	seek "$1"
+}

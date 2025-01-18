@@ -1,0 +1,3 @@
+hi
+the command going to execute is echo var
+var

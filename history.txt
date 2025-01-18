@@ -1,0 +1,15 @@
+vi
+proclore 36080
+sleep 100
+bg 36346
+activities
+sleep 100
+vi
+echo ouhfoh
+vi
+sleep 100
+activities
+sleep 100
+activities
+bg 40555
+activities
