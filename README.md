@@ -83,4 +83,3 @@ Upon startup, BondShell will look for a `.myshrc` file in its initial working di
 
 ---
 Crafted with ❤️ by Varun Gupta. (Original author)
-Refactored by Jules (AI Assistant).
