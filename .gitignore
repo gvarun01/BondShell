@@ -396,3 +396,18 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Custom entries for this C shell project
+
+# Build output
+build/
+*.o
+*.out
+bondshell # Executable name if built in root
+
+# Shell specific files
+history.txt
+temp.txt
+*.swp # Vim swap files
+*~ # Common backup file extension
+# Add any other project specific temporary files here
